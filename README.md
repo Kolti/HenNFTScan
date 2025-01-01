@@ -1,1 +1,2 @@
 # HenNFTScan
+Runs in the background and automatically scans listing and sales data from Hic et Nunc NFT market place on the Tezos block chain via the HicDex API. The data is analized to determine which artists have the biggest price markup between primary market and secondary market. Automatically sends an e-mail whenever an artwort is listed by an artist on the primary market which is expected to fetch a profit when bought and flipped on the secondary market immediately. E-mail credentials need to be configured (clode has place holders).
